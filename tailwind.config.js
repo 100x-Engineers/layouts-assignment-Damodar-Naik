@@ -10,6 +10,7 @@ module.exports = {
         'neutral-700': '#404040',
         'neutral-400': '#A2A2A2',
         'neutral-600': '#525252',
+        'neutral-800': '#262626',
         'twitter—blue': '#1D9BF0',
         'twitter—blue-hover': '#1871CA',
         'twitter—blue-disabled': '#1E5D87',
