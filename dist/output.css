@@ -603,6 +603,14 @@ html {
   right: 1.38rem;
 }
 
+.bottom-10 {
+  bottom: 2.5rem;
+}
+
+.bottom-20 {
+  bottom: 5rem;
+}
+
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -900,6 +908,10 @@ html {
   border-radius: 624.9375rem;
 }
 
+.rounded-\[6\.25rem\] {
+  border-radius: 6.25rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -994,6 +1006,11 @@ html {
   background-color: rgb(29 155 240 / var(--tw-bg-opacity));
 }
 
+.bg-searchbar-fill {
+  --tw-bg-opacity: 1;
+  background-color: rgb(33 35 39 / var(--tw-bg-opacity));
+}
+
 .bg-\[url\(\'\.\.\/\.\.\/public\/images\/profile-cover-2\.svg\'\)\] {
   background-image: url('../../public/images/profile-cover-2.svg');
 }
@@ -1080,6 +1097,11 @@ html {
 .py-\[1\.125rem\] {
   padding-top: 1.125rem;
   padding-bottom: 1.125rem;
+}
+
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .pb-5 {
